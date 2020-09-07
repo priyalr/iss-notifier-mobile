@@ -30,4 +30,4 @@ Notification:
  - Watch a livestream of the views of Earth from the ISS [here](https://www.nasa.gov/multimedia/nasatv/iss_ustream.html) 
  - Learn more about the ISS [here](https://www.nasa.gov/mission_pages/station/main/index.html)
  
- Happy ISS spotting!
+ Happy ISS spotting! 🛰
