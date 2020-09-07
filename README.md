@@ -9,16 +9,13 @@ Location permission:
 
 <img src="https://github.com/priyalr/iss-notifier-mobile/blob/master/screenshots/iss-notifier-mobile-location-permission.png" width="207" height="448" title="Location permission">
 
-
 Notifications permission:
 
 <img src="https://github.com/priyalr/iss-notifier-mobile/blob/master/screenshots/iss-notifier-mobile-notifications-permission.png" width="207" height="361" title="Notifications permission">
 
-
 Sightings:
 
-<img src="https://github.com/priyalr/iss-notifier-mobile/blob/master/screenshots/iss-notifier-mobile-sightings.png" width="207" height="448" title="Sightings">
-
+<img src="https://github.com/priyalr/iss-notifier-mobile/blob/master/screenshots/iss-notifier-mobile-sightings.png" width="207" height="375" title="Sightings">
 
 Notification:
 
